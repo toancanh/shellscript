@@ -5,7 +5,9 @@ declare arrayb
 echo "---------------Kiem tra file thieu theo format [number]a.x, [number]b.x. Vd: 1a.mp4, 2b.txt------------"
 echo "Nhap duong dan chua file: (vd: /home/tan/Lab):  "
 read pathin
-echo "Nhap so luong file ly thuyet: "
+echo "Nhap so thu tu bat dau: "
+read t
+echo "Nhap so thu tu ket thuc: "
 read s
 echo "Nhap kieu file (Vd: .mp4, .txt): " 
 read ext
